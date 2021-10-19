@@ -1,0 +1,2 @@
+Day2 file b.txt
+created using vi
